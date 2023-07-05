@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luize</h1>
 <h3 align="center">Desenvolvedora full-stack, cursando Sistemas de informacao</h3>
-<p align="left"> <img src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="luizecarillof" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizecarillof&label=Profile%20views&color=0e75b6&style=flat" alt="luizecarillof" /> </p>
 
@@ -21,6 +20,7 @@
 <a href="https://linkedin.com/in/luize-carillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luize-carillo" height="30" width="40" /></a>
 <a href="https://instagram.com/lu.carillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu.carillo" height="30" width="40" /></a>
 </p>
+<p align="left"> <img src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="luizecarillof" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
