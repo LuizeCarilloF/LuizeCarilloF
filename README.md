@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luize</h1>
 <h3 align="center">Desenvolvedora full-stack, cursando Sistemas de informacao</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizecarillof&label=Profile%20views&color=0e75b6&style=flat" alt="luizecarillof" /> </p>
+="https://github-profile-trophy.vercel.app/?username=luizecarillof" alt="luizecarillof" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizecarillof" alt="luizecarillof" /></a> </p>
-
-- 🌱 I’m currently learning **novas legendas de programacao**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at (my GitHub)
 
