@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizecarillof&label=Profile%20views&color=0e75b6&style=flat" alt="luizecarillof" /> </p>
 ="https://github-profile-trophy.vercel.app/?username=luizecarillof" alt="luizecarillof" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** , **Python** , **R**
 
 - 👨‍💻 All of my projects are available at (my GitHub)
 
