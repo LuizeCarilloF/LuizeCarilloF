@@ -25,7 +25,7 @@
 
   <ul>
     <li>🌱 Atualmente estou aprendendo <strong>Kotlin</strong>, <strong>Python</strong>, <strong>R</strong></li>
-    <li>👨‍💻 Todos os meus projetos estão disponíveis no <a href="seu link do GitHub aqui">(meu GitHub)</a></li>
+    <li>👨‍💻 Todos os meus projetos estão disponíveis no <a href="https://github.com/LuizeCarilloF/LuizeCarilloF">(meu GitHub)</a></li>
     <li>📫 Como me contatar <strong>luizecarillo@gmail.com</strong></li>
     <li>📄 Saiba sobre minhas experiências <a href="seu link de experiências aqui">Atualmente desenvolvo projetos em JavaScript, Node, MySQL</a></li>
     <li>⚡ Curiosidade: <strong>Gosto de livros, música e jogos</strong></li>
